@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { MDBBtn, MDBCard, MDBCardBody, MDBContainer, } from 'mdbreact';
 import { ComConstance } from '../Common_Constants';
-import '../styles/offer-item.css';
+// import '../styles/offer-item.css';
 
 
 class ProvideItem extends Component {

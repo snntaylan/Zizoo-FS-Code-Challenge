@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Search from './Search';
+import Search from './search';
 import { Link } from 'react-router-dom';
 import { MDBCol, MDBContainer, MDBFooter, MDBRow } from 'mdbreact';
 import { ComConstance } from '../Common_Constants';
